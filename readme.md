@@ -1,0 +1,1 @@
+This is a website for our small crochet business and a portfolio for my independent software engineer career. 
